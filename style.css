@@ -52,8 +52,17 @@
 }
 
 .tabella{
+    border-spacing: 0px;
+    border-collapse: collapse;
     
 }
+
+td{
+    padding: 5px;
+}
+
+
+
 
 
 
