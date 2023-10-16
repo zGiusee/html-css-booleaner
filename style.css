@@ -3,3 +3,22 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.container-header{
+    height: 200px;
+    background-color: rgb(8, 158, 218);
+    
+}
+
+.header-pattern{
+    height: 200px;
+    background-image: url(../html-css-booleaner/img/pattern.png);
+    
+}
+
+.header-logo{
+    background-image: url(../html-css-booleaner/img/logo.svg);
+    height: 100px;    
+    background-repeat: no-repeat;
+    
+} 
