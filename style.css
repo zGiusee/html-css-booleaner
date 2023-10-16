@@ -19,6 +19,14 @@
 .header-logo{
     background-image: url(../html-css-booleaner/img/logo.svg);
     height: 100px;    
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat
 } 
+
+.main-title{
+    font-size: 75px;
+    
+}
+
+.font-crediti{
+    color: darkgray;
+}
