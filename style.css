@@ -19,7 +19,8 @@
 .header-logo{
     background-image: url(../html-css-booleaner/img/logo.svg);
     height: 100px;    
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+
 } 
 
 .main-title{
@@ -30,3 +31,27 @@
 .font-crediti{
     color: darkgray;
 }
+
+.tim-image img{
+    object-fit: contain;
+    
+    height: 100%;
+    width: 100%;
+
+}
+
+.tim-image2 img{
+    object-fit: contain;
+    
+    height: 100%;
+    width: 100%;
+    
+}
+  
+.main-image-container{
+    
+    height: 500px;
+    object-fit: contain;
+
+}
+
