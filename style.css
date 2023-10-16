@@ -40,12 +40,35 @@
 }
 
 .thead{
-    background-color: aqua;
+    background-color: rgb(8, 158, 218);
 }
 
 .font-thead{
     color: white;
 }
+
+.bg-table-color{
+    background-color: rgb(151, 253, 253);
+}
+
+.tabella{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .correlati1{
     background-image: url(../html-css-booleaner/img/monitor.jpg);
