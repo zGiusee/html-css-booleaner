@@ -17,10 +17,8 @@
 }
 
 .header-logo{
-    background-image: url(../html-css-booleaner/img/logo.svg);
-    height: 100px;    
-    background-repeat: no-repeat;
-
+    height: 100px;  
+    margin-top: 100px;  
 } 
 
 .main-title{
@@ -28,30 +26,17 @@
     
 }
 
+.font-data{
+    color: darkgray;
+    font-size: 15px;
+}
+
 .font-crediti{
     color: darkgray;
 }
 
-.tim-image img{
-    object-fit: contain;
-    
-    height: 100%;
-    width: 100%;
-
+.highlighted{
+    background-color: yellow;
 }
 
-.tim-image2 img{
-    object-fit: contain;
-    
-    height: 100%;
-    width: 100%;
-    
-}
-  
-.main-image-container{
-    
-    height: auto;
-    object-fit: contain;
-
-}
 
