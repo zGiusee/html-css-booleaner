@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.container-pagina{
+    max-width: 80%;
+    margin: auto;
+}
 
 .container-header{
     height: 200px;
@@ -13,7 +17,7 @@
 
 .header-pattern{
     height: 200px;
-    background-image: url(../html-css-booleaner/img/pattern.png);
+    background-image: url(../bonus/img/pattern.png);
     
 }
 
@@ -68,33 +72,15 @@ td{
     width: 20%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .correlati1{
-    background-image: url(../html-css-booleaner/img/monitor.jpg);
+    background-image: url(../bonus/img/monitor.jpg);
     background-repeat: no-repeat;
     height: 200px;
     width: 300px;
 }
 
 .correlati2{
-    background-image: url(../html-css-booleaner/img/graph.jpg);
+    background-image: url(../bonus/img/graph.jpg);
     background-repeat: no-repeat;
     height: 200px;
     width: 300px;
@@ -104,6 +90,5 @@ td{
     color: white;
     padding: 15px;
     font-weight: bold;
-    
     
 }
