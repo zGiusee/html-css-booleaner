@@ -51,14 +51,20 @@
     background-color: rgb(151, 253, 253);
 }
 
+.bg-table-color2{
+    background-color: rgb(255, 255, 255);
+}
+
 .tabella{
     border-spacing: 0px;
     border-collapse: collapse;
+    
     
 }
 
 td{
     padding: 5px;
+    width: 20%;
 }
 
 
