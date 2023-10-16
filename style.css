@@ -50,7 +50,7 @@
   
 .main-image-container{
     
-    height: 500px;
+    height: auto;
     object-fit: contain;
 
 }
