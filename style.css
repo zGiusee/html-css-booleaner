@@ -39,4 +39,32 @@
     background-color: yellow;
 }
 
+.thead{
+    background-color: aqua;
+}
 
+.font-thead{
+    color: white;
+}
+
+.correlati1{
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+}
+
+.correlati2{
+    background-image: url(../html-css-booleaner/img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+}
+
+.font-correlati{
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    
+    
+}
