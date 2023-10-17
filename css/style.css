@@ -108,6 +108,8 @@ td{
     background-repeat: no-repeat;
     height: 200px;
     width: 300px;
+    margin: 10px 0px;
+    padding: 10px;
 }
 
 .correlati2{
@@ -115,6 +117,8 @@ td{
     background-repeat: no-repeat;
     height: 200px;
     width: 300px;
+    margin: 10px 0px;
+    padding: 10px;
 }
 
 .font-correlati{
