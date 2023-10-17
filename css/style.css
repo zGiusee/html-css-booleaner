@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container-header{
+    height: 200px;
+    background-color: rgb(8, 158, 218);
+    
+}
+
+.header-pattern{
+    height: 200px;
+    background-image: url(../html-css-booleaner/img/pattern.png);
+    
+}
+
+.header-logo{
+    height: 100px;  
+    margin-top: 100px;  
+} 
+
+.main-title{
+    font-size: 75px;
+    
+}
+
+.font-data{
+    color: darkgray;
+    font-size: 15px;
+}
+
+.font-crediti{
+    color: darkgray;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+.thead{
+    background-color: rgb(8, 158, 218);
+}
+
+.font-thead{
+    color: white;
+}
+
+.bg-table-color{
+    background-color: rgb(151, 253, 253);
+}
+
+.bg-table-color2{
+    background-color: rgb(255, 255, 255);
+}
+
+.tabella{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    
+    
+}
+
+td{
+    padding: 5px;
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.correlati1{
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+}
+
+.correlati2{
+    background-image: url(../html-css-booleaner/img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+}
+
+.font-correlati{
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    
+    
+}
